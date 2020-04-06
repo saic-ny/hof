@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Higher-Order Function Networks for Learning Composable 3D Object Representations
-description: Project page for Higher Order Functions Networks (ICLR 2020) and related papers
+description: Project page for Higher Order Function Networks (ICLR 2020) and related papers
 github:
   is_project_page: false
  
