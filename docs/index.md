@@ -4,7 +4,6 @@ This page contains information for papers related to higher-order functions for 
 
 View the paper on [arXiv](https://arxiv.org/abs/1907.10388).
 
-If this work is helpful in your own research, you can cite it with the following BibTex:
 ```
 @inproceedings{
   Mitchell2020Higher-Order,
@@ -21,8 +20,6 @@ Correspondence to: eric [dot] mitchell [at] cs [dot] stanford [dot] edu
 ### Higher Order Function Networks for View Planning and Multi-View Reconstruction (ICRA 2020)
 
 View the paper on [arXiv](https://arxiv.org/abs/1910.02066).
-
-If this work is helpful in your own research, you can cite it with the following BibTex:
 
 ```
 @inproceedings{
